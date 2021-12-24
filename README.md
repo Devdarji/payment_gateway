@@ -1,4 +1,4 @@
-# payment_gateway
+# Payment Gateway
 
 Payment Gateway using Django
 
